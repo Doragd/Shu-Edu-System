@@ -1,2 +1,10 @@
-# Shu-edu-system
-A project about data structure (actually not~)
+# 上海大学智慧教务管理系统
+* 一项数据结构的课程设计
+
+* 第一个约900行的小项目
+* 第一个为@JeanMraz做的项目(以后！再也！不要！吹牛皮)
+* To do：
+  * 使用SQL数据库
+  * PyQt图形化界面
+* 一切美好会不会从此开始~
+
